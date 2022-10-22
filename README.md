@@ -1,5 +1,5 @@
 
-[![inbasekaran](https://user-images.githubusercontent.com/65380692/197327245-df0cea9e-b37d-4842-9059-9d514837d142.png)]
+![inbasekaran](https://user-images.githubusercontent.com/65380692/197327245-df0cea9e-b37d-4842-9059-9d514837d142.png)
 
 ### Languages
 
@@ -8,7 +8,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![HTML](https://img.shields.io/badge/-HTML And CSS-000?&logo=HTML5)
+![HTML AND CSS](https://img.shields.io/badge/-HTML%20and%20CSS-000?&logo=HTML5)
 
 ### Technologies
 
