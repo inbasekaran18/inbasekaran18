@@ -1,5 +1,5 @@
 
-[![inbasekaran](https://user-images.githubusercontent.com/65380692/197327245-df0cea9e-b37d-4842-9059-9d514837d142.png)]<!-- (https://www.adamalston.com/)If you want the template for my gif, email me! -->
+[![inbasekaran](https://user-images.githubusercontent.com/65380692/197327245-df0cea9e-b37d-4842-9059-9d514837d142.png)]
 
 ### Languages
 
