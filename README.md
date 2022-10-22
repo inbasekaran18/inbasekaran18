@@ -3,7 +3,7 @@
 
 [![About Me Badge](https://img.shields.io/badge/-about.me-white?style=for-the-badge&logo=about.me&logoColor=00a98f)](https://github.com/inbasekaran18) [![Read the Docs Badge](https://img.shields.io/badge/-read_the_docs-white?style=for-the-badge&logo=read-the-docs&logoColor=8ca1af)](https://readthedocs.org/profiles/bilardi/)  [![Resume Badge](https://img.shields.io/badge/-resume-white?style=for-the-badge&logo=google-scholar&logoColor=ff7102)](https://drive.google.com/file/d/1fXsAROMzKAaDZfIUq5k3BYXqfPAWU0YT/view?usp=sharing)  [![Stackoverflow Badge](https://img.shields.io/badge/-stackoverflow-white?style=for-the-badge&logo=stack-overflow&logoColor=FE7A16)](https://stackoverflow.com/story/bilardi/) 
 
-With 9.5 years of experience in creating and delivering user-eccentric applications and solutions,I look forward
+Experienced in creating and delivering user-eccentric applications and solutions,I look forward
 to bringing my strong creative, technical, and analytical skills to the Full stack development.
 Throughout my career, I have been acknowledged as a solution-focused professional with the ability to design
 and develop innovative applications using advanced technologies.
