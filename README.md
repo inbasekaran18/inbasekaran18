@@ -25,8 +25,8 @@ and develop innovative applications using advanced technologies.
 ![Express.Js](https://img.shields.io/badge/-Express.Js-000)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Next.js)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Next.js)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
