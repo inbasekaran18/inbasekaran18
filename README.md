@@ -16,7 +16,7 @@ and develop innovative applications using advanced technologies.
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![HTML AND CSS](https://img.shields.io/badge/-HTML%20and%20CSS-000?&logo=HTML5)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 
 ### Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -25,25 +25,31 @@ and develop innovative applications using advanced technologies.
 ![Express.Js](https://img.shields.io/badge/-Express.Js-000)
 ![NestJS](https://img.shields.io/badge/-NestJS-000?&logo=NestJS)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![Web3.js](https://img.shields.io/badge/-Web3.js-000?&logo=web3.js)
+![Graphql](https://img.shields.io/badge/-Graphql-000?&logo=Graphql)
+![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+![Blockhain](https://img.shields.io/badge/-Blockhain-000?&logo=blockhain)
+![Ethereum](https://img.shields.io/badge/-ethereum-000?&logo=ethereum)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?&logo=Bitbucket)
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![CI/CD](https://img.shields.io/badge/-CICD-000?&logo=cicd)
 
 
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
-![RALLY](https://img.shields.io/badge/-RALLY-000?&logo=RALLY)
+![RALLY](https://img.shields.io/badge/-RALLY-000?&logo=rally)
 
 
 
