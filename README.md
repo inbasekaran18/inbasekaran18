@@ -17,6 +17,7 @@ and develop innovative applications using advanced technologies.
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![HTML AND CSS](https://img.shields.io/badge/-HTML%20and%20CSS-000?&logo=HTML5)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
+![Go](https://img.shields.io/badge/-go-000?&logo=go)
 
 ### Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
@@ -31,10 +32,16 @@ and develop innovative applications using advanced technologies.
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 ![Blockhain](https://img.shields.io/badge/-Blockhain-000?&logo=blockhain)
 ![Ethereum](https://img.shields.io/badge/-ethereum-000?&logo=ethereum)
+![django](https://img.shields.io/badge/-django-000?&logo=django)
+![flask](https://img.shields.io/badge/-flask-000?&logo=flask)
+![flask](https://img.shields.io/badge/-Gin-000?&logo=Gin)
+
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![postgresql](https://img.shields.io/badge/-postgresql-000?&logo=postgresql)
+![influxdb](https://img.shields.io/badge/-influxdb-000?&logo=influxdb)
+![dynamodb](https://img.shields.io/badge/-dynamodb-000?&logo=dynamodb)
 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
